@@ -36,9 +36,9 @@ As próximas etapas incluem a integração com backend em Java (Spring Boot) e b
 - Leonardo Ferreira  
 - Jorge Lucas Teixeira
 
-## Preview
-![Página de login] (./preview1.png)
-![Página de cadastro] (./preview2.png)
+## 📸 Preview
+![./preview1.png]
+![./preview2.png]
 
 ## 📈 Changelog
 
