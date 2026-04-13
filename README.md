@@ -37,8 +37,8 @@ As próximas etapas incluem a integração com backend em Java (Spring Boot) e b
 - Jorge Lucas Teixeira
 
 ## 📸 Preview
-![./preview1.png]
-![./preview2.png]
+![Página de login](./preview1.png)
+![Página de cadastro](./preview2.png)
 
 ## 📈 Changelog
 
